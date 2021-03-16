@@ -1,0 +1,15 @@
+22:04:46.061 INFO [GridLauncherV3.parse] - Selenium server version: 3.141.59, revision: e82be7d358
+22:04:46.255 INFO [GridLauncherV3.lambda$buildLaunchers$3] - Launching a standalone Selenium Server on port 4444
+2019-11-06 22:04:46.627:INFO::main: Logging initialized @1599ms to org.seleniumhq.jetty9.util.log.StdErrLog
+22:04:47.380 INFO [WebDriverServlet.<init>] - Initialising WebDriverServlet
+22:04:48.252 INFO [SeleniumServer.boot] - Selenium Server is up and running on port 4444
+22:04:49.454 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptSslCerts": true,
+  "browserName": "chrome",
+  "javascriptEnabled": true,
+  "name": "Test"
+}
+22:04:49.457 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 34879
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
